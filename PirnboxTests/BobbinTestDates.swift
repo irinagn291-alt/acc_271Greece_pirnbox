@@ -1,0 +1,25 @@
+import Foundation
+
+enum BobbinTestDates {
+    static func calendar() -> Calendar {
+        var calendar = Calendar(identifier: .gregorian)
+        calendar.timeZone = TimeZone(secondsFromGMT: 0) ?? .gmt
+        calendar.locale = Locale(identifier: "en_US_POSIX")
+        return calendar
+    }
+
+    static func day(
+        _ year: Int,
+        _ month: Int,
+        _ day: Int,
+        hour: Int = 12,
+        calendar: Calendar
+    ) -> Date {
+        var parts = DateComponents()
+        parts.year = year
+        parts.month = month
+        parts.day = day
+        parts.hour = hour
+        return calendar.date(from: parts) ?? Date(timeIntervalSince1970: 0)
+    }
+}

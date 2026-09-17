@@ -1,0 +1,9 @@
+This is the first release of Pirnbox.
+
+Today's bobbin shows remaining against capacity on a glass bobbin. Tap to stitch spends one unit. A tap at zero writes Bare and remaining stays at zero. Reload restores remaining to capacity and files a mark on the day. Retract peels the last stitch, Bare mark, or reload.
+
+Calendar lists days with reload marks. Charts shows stitches versus capacity. History lists Stitch, Bare, and Reload writes. Capacity opens Stitch then reload. Settings sets Capacity from 1 to 48 and includes Contact Pirnbox, Re-run onboarding, and Reset all data.
+
+Onboarding is Thread on the glass, Tap to stitch, and Reload the spool.
+
+No account is required.

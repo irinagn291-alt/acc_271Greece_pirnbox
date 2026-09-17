@@ -1,0 +1,15 @@
+The build settings include a camera usage description with the exact string "This app does not use the camera." The app never asks for camera access, so that system alert does not appear. No other permission prompts appear.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Pirnbox is a remaining-thread log for home sewists who empty a bobbin mid-seam. Today's bobbin shows remaining against capacity on a glass bobbin. The reviewer spends units with a tap, reloads the spool, and opens Calendar, Charts, History, and Settings from that same screen.
+
+No credentials or demo account are needed. From a cold launch the cover is Thread on the glass with the line See remaining against capacity on a glass bobbin. Home is the spool, not a diary. Tap Continue to open Tap to stitch, which says Each tap spends one unit. At zero, a tap writes Bare and remaining stays at zero. Tap Continue again to open Reload the spool, which says Reload restores remaining to capacity and files a mark on the day. Tap Stitch, or tap Skip on any page, to reach Today's bobbin. The header reads Tap the glass to spend one unit. Remaining thread on the glass and Capacity sit above the spool labelled Tap to stitch. Capacity starts at 12 and remaining starts equal to Capacity, so Reload is disabled until a stitch is spent. Tap the glass once to spend one unit. Then tap Reload to restore remaining to capacity and file a mark. Tap Retract to peel the last stitch, Bare mark, or reload. Keep tapping the glass until remaining is zero to see Bare. Remaining stays at zero and Bare spool. Tap Calendar to see days with reload marks, or No reloads filed. with Reload the bobbin to mark a day. Tap Charts to see stitches versus capacity, or No stitches to chart. Tap History to read Stitch, Bare, and Reload writes, or Nothing stitched yet. Tap Capacity to open Stitch then reload, which states A stitch spends one from remaining. and Reload fills to capacity and files a mark. Use Reload or Back to the bobbin to return. Tap Settings to read Capacity on this bobbin and change Capacity with the stepper from 1 to 48. Settings also has Contact Pirnbox, Re-run onboarding, and Reset all data. Reset all data asks Erase every stitch, bare mark, and reload? with Reset all data or Cancel.
+
+Stitches, Bare marks, reload marks, remaining, and capacity stay on this device. Contact Pirnbox on Settings opens the support page.
+
+Behaviour does not differ by region.
+
+No licence or regulated-industry paperwork applies because the app is a personal sewing log of remaining thread units, not a medical, financial, or licensed trade product.
+
+The app is a personal log only and gives no recommendations.

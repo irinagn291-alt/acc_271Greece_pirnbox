@@ -1,0 +1,1 @@
+sewing,bobbin,thread,spool,reload,stitch,capacity,remaining,calendar,history,charts,sewist,bare

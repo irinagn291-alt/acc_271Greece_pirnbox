@@ -1,0 +1,14 @@
+Pirnbox is a remaining-thread log for home sewists. Today's bobbin shows remaining against capacity on a glass bobbin, not a stitch diary.
+
+• Today's bobbin shows Remaining thread on the glass and Capacity
+• Tap to stitch spends one unit from remaining
+• At zero, a tap writes Bare and remaining stays at zero
+• Reload restores remaining to capacity and files a mark on the day
+• Retract peels the last stitch, Bare mark, or reload
+• Calendar lists days with reload marks
+• Charts shows stitches versus capacity
+• History lists Stitch, Bare, and Reload writes
+• Stitch then reload walks the same mechanic from the Capacity card
+• Settings sets Capacity from 1 to 48, plus Contact Pirnbox, Re-run onboarding, and Reset all data
+
+There is no account. Remaining and marks stay on this device.
